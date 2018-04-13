@@ -1,0 +1,175 @@
+[
+{
+    "id": "language_code",
+    "translation": "sl-SI"
+},
+{
+    "id": "language_name",
+    "translation": "Slovenščina"
+},
+{
+    "id": "wait",
+    "translation": "Čakam na vnos.."
+},
+{
+    "id": "img_copied",
+    "translation": "Slika je bila skopirana v clipboard."
+},
+{
+    "id": "res_copied",
+    "translation": "Rezultat je bil skopiran v clipboard."
+},
+{
+    "id": "rendering",
+    "translation": "Izrisovanje..."
+},
+{
+    "id": "calculating",
+    "translation": "Računanje..."
+},
+{
+    "id": "done",
+    "translation": "Končano."
+},
+{
+    "id": "calc_err_general",
+    "translation": "Neveljaven račun."
+},
+{
+    "id": "render_err_general",
+    "translation": "Napaka pri izrisu računa."
+},
+{
+    "id": "calc",
+    "translation": "Kalkulator"
+},
+{
+    "id": "calc_adv",
+    "translation": "Napredno"
+},
+{
+    "id": "vars",
+    "translation": "Spremenljivke"
+},
+{
+    "id": "consts",
+    "translation": "Konstante"
+},
+{
+    "id": "history",
+    "translation": "Zgodovina"
+},
+{
+    "id": "tools",
+    "translation": "Orodja"
+},
+{
+    "id": "options",
+    "translation": "Možnosti"
+},
+{
+    "id": "var_name",
+    "translation": "Ime Spremenljivke"
+},
+{
+    "id": "var_value",
+    "translation": "Vrednost Spremenljivke"
+},
+{
+    "id": "add_var",
+    "translation": "Dodaj Spremenljivko"
+},
+{
+    "id": "name",
+    "translation": "Ime"
+},
+{
+    "id": "value",
+    "translation": "Vrednost"
+},
+{
+    "id": "copy_img",
+    "translation": "Kopiraj Sliko"
+},
+{
+    "id": "copy_img_long",
+    "translation": "Kopiraj sliko v clipboard"
+},
+{
+    "id": "copy_res",
+    "translation": "Kopiraj Rezultat"
+},
+{
+    "id": "copy_res_long",
+    "translation": "Kopiraj rezultat v clipboard"
+},
+{
+    "id": "compute",
+    "translation": "Izračun"
+},
+{
+    "id": "add",
+    "translation": "Dodaj"
+},
+{
+    "id": "remove",
+    "translation": "Odstrani"
+},
+{
+    "id": "clear",
+    "translation": "Počisti"
+},
+{
+    "id": "clear_long",
+    "translation": "Počisti rezultat"
+},
+{
+    "id": "settings",
+    "translation": "Nastavitve"
+},
+{
+    "id": "settings_long",
+    "translation": "Odpri nastavitve"
+},
+{
+    "id": "about",
+    "translation": "O programu"
+},
+{
+    "id": "exit",
+    "translation": "Izhod"
+},
+{
+    "id": "timeout",
+    "translation": "Časovni zamik"
+},
+{
+    "id": "languages",
+    "translation": "Jeziki"
+},
+{
+    "id": "general",
+    "translation": "Splošno"
+},
+{
+    "id": "dpi",
+    "translation": "Pike na inč (dpi)"
+},
+{
+    "id": "color",
+    "translation": "Barva teksta"
+},
+{
+    "id": "bg_color",
+    "translation": "Barva ozadja"
+},
+{
+    "id": "defaults",
+    "translation": "Privzete nastavitve"
+},
+{
+    "id": "",
+    "translation": ""
+}
+]
+
